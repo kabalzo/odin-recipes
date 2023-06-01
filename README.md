@@ -1,0 +1,1 @@
+This is my first project repository in the Odin Project. I will be creating a recipes website and working on HTML.
